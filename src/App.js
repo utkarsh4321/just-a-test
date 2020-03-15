@@ -151,7 +151,7 @@ class App extends React.Component {
   };
 
   render() {
-    const { authStatus, user } = this.state;
+    var { authStatus, user } = this.state;
 
     // console.log(user.pool);
     return (
