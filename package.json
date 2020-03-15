@@ -64,8 +64,8 @@
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,css,html}": [
-      "npm run prettify",
-      "npm run lint:fix"
+      "prettier --write",
+      "eslint --fix"
     ]
   }
 }
