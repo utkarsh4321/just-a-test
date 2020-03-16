@@ -1,0 +1,22 @@
+{
+    "web": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-myauthapp-web-124051-authRole",
+            "UnauthRoleArn": "arn:aws:iam::845042252401:role/amplify-myauthapp-web-124051-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::845042252401:role/amplify-myauthapp-web-124051-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-myauthapp-web-124051-deployment",
+            "UnauthRoleName": "amplify-myauthapp-web-124051-unauthRole",
+            "StackName": "amplify-myauthapp-web-124051",
+            "StackId": "arn:aws:cloudformation:ap-south-1:845042252401:stack/amplify-myauthapp-web-124051/ebd54aa0-610b-11ea-9d16-0a57edc12e34",
+            "AmplifyAppId": "d90wrui0yd5z1"
+        },
+        "categories": {
+            "auth": {
+                "myauthapp41347a73": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"261918966706-89ai7sma1vl3uvoej9j8i2pdto1bplus.apps.googleusercontent.com\",\"client_secret\":\"PtgBqs_HA0TScUtVR-4l95hi\"}]"
+                }
+            }
+        }
+    }
+}
